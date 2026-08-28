@@ -1,4 +1,4 @@
-# Olá! Eu sou o Vinicius Ferreira 👋
+# Olá! Eu sou o Vinícius Ferreira 👋
 
 ### 👨‍💻 Quem sou eu
 Sou estudante de Eletrônica, Análise e Desenvolvimento de Sistemas, atuando como Aprendiz no Desenvolvimento Logístico da Fábrica de Motores na Scania Latin América. Sou apaixonado por conectar o universo físico do hardware ao mundo do software, focando no desenvolvimento de soluções inteligentes para a tecnologia industrial e na aplicação de IoT, automação e sistemas embarcados no contexto da Indústria 4.0.
