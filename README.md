@@ -5,9 +5,9 @@ Sou estudante de Eletrônica, Análise e Desenvolvimento de Sistemas, atuando co
 
 ### 🛠️ Linguagens e Ferramentas
 * **Linguagens & Back-end:** C#, Python, C++ (Sistemas Embarcados), SQL
-* **Eletrônica & IoT:** Microcontroladores (Arduino, ESP32), Sensores, Automação, Comandos Elétricos
-* **Manutenção & Hardware:** Diagnóstico de Falhas, Testes Eletrônicos, Manutenção Industrial voltado para 4.0
-* **Ferramentas & Bancos de Dados:** Git, GitHub, MySQL, Bancos de Dados Relacionais
+* **Eletrônica & IoT:** Microcontroladores (Arduino, ESP32), Sensores, Automação, Comandos Elétricos, Integração de Sistemas Eletrõnicos
+* **Manutenção & Hardware:** Diagnóstico de Falhas, Testes Eletrônicos, Manutenção Industrial Voltado para Industria 4.0
+* **Ferramentas & Bancos de Dados:** Git, GitHub, MySQL, Bancos de Dados Relacionais, Node-RED
 
 ### 🚀 Projetos em Destaque
 * **[SensAI]** - Solução inteligente integrando inteligência artificial, IoT e sensores para monitoramento e análise.
